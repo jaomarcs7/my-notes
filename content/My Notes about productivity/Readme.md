@@ -1,0 +1,4 @@
+README INTRODUCTION
+
+
+Data Analysis Project Data Analysis Project Data Analyst: (You) Client/Sponsor: Citysville Department of Transportation Purpose: Write a brief description of why this project is happening below. Why is this project happening? What are the goals? The goal of this project is to study traffic congestion issues within the formal city limits of Citysville. The project will identify the top 10 “hotspot” areas of traffic congestion in the city using traffic sensor data. After identifying the top 10 areas, the project will study the causes of congestion in each area, and identify recommendations for reducing congestion at each “hotspot”. Each recommendation should include cost estimates, as well as an estimate of how much congestion each fix will reduce. The final deliverable will recommend the 3 most cost-effective recommendations for reducing congestion, recommending the fixes that will do the most good for the least cost
